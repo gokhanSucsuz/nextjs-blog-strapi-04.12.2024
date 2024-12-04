@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_content_contents",
+  "info": {
+    "displayName": "contents"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "text": {
+      "type": "blocks",
+      "required": true
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_social_social_media_accounts",
+  "info": {
+    "displayName": "socialMediaAccounts"
+  },
+  "options": {},
+  "attributes": {
+    "githubLink": {
+      "type": "string",
+      "required": true
+    },
+    "linkedInLink": {
+      "type": "string",
+      "required": true
+    },
+    "instagramLink": {
+      "type": "string",
+      "required": true
+    }
+  }
+}

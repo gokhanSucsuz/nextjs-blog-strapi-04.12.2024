@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "abouts",
+  "info": {
+    "singularName": "about",
+    "pluralName": "abouts",
+    "displayName": "about",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "content": {
+      "displayName": "contents",
+      "type": "component",
+      "repeatable": true,
+      "component": "content.contents"
+    }
+  }
+}
